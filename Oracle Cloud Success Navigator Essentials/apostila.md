@@ -1,6 +1,6 @@
 # Apostila
 
-## Apostila 1: Entendendo os Principais Recursos do Oracle Cloud Success Navigator
+## Entendendo os Principais Recursos do Oracle Cloud Success Navigator
 ### Introdução
 O Oracle Cloud Success Navigator é uma ferramenta poderosa projetada para auxiliar na implementação e gerenciamento bem-sucedidos do Oracle Fusion Applications. Ele serve como um guia abrangente, oferecendo recursos e melhores práticas para otimizar a jornada de adoção da nuvem.
 
@@ -44,7 +44,7 @@ A comunidade online permite que os usuários compartilhem conhecimentos e experi
 ### Conclusão
 O Oracle Cloud Success Navigator é uma ferramenta essencial para qualquer pessoa envolvida na implementação do Oracle Fusion Applications. Ao entender e utilizar seus principais recursos, você pode garantir uma implementação bem-sucedida, eficiente e dentro dos padrões de qualidade da Oracle.
 
-## Apostila 2: Navegando pela Jornada de Adoção da Nuvem
+## Navegando pela Jornada de Adoção da Nuvem
 ### Introdução
 A jornada de adoção da nuvem com o Oracle Fusion Applications é um processo complexo que exige planejamento estratégico e execução cuidadosa. O Oracle Cloud Success Navigator oferece um framework estruturado para guiar as organizações através de cada etapa dessa jornada, garantindo uma transição suave e bem-sucedida.
 
@@ -93,7 +93,7 @@ A adoção da nuvem pode gerar resistência por parte dos usuários. É importan
 ### Conclusão
 Navegar pela jornada de adoção da nuvem com o Oracle Fusion Applications exige planejamento, execução e gerenciamento de mudanças. O Oracle Cloud Success Navigator oferece as ferramentas e recursos necessários para garantir uma transição suave e bem-sucedida.
 
-## Apostila 3: Adotando as Melhores Práticas Modernas da Oracle (OMBP)
+## Adotando as Melhores Práticas Modernas da Oracle (OMBP)
 ### Introdução
 As Melhores Práticas Modernas da Oracle (OMBP) são um conjunto de diretrizes e recomendações que visam otimizar a implementação e o uso do Oracle Fusion Applications. Elas representam o conhecimento acumulado da Oracle e de seus clientes, oferecendo um roteiro para o sucesso na nuvem.
 
@@ -138,7 +138,7 @@ As OMBP estão disponíveis no Oracle Cloud Success Navigator, uma ferramenta on
 ### Conclusão
 As OMBP são um recurso valioso para qualquer organização que esteja implementando ou utilizando o Oracle Fusion Applications. Ao seguir as diretrizes e recomendações das OMBP, as organizações podem aumentar a probabilidade de sucesso e maximizar o retorno sobre o investimento.
 
-## Apostila 4: Implementando Configurações Iniciais Usando o Starter
+## Implementando Configurações Iniciais Usando o Starter
 
 ### Introdução
 O "Starter" no Oracle Cloud Success Navigator é uma ferramenta poderosa que simplifica e acelera o processo de configuração inicial do Oracle Fusion Applications. Ele fornece modelos e guias pré-configurados, permitindo que as organizações comecem a usar o sistema de forma rápida e eficiente.
@@ -180,7 +180,7 @@ O Starter pode ser usado para configurar diversos módulos do Fusion Application
 ### Conclusão
 O Starter é uma ferramenta valiosa que pode simplificar e acelerar o processo de configuração inicial do Oracle Fusion Applications. Ao seguir as diretrizes e recomendações desta apostila, as organizações podem garantir uma implementação bem-sucedida e maximizar o retorno sobre o investimento.
 
-## Apostila 5: Gerenciando Programas e Projetos de Forma Eficaz com o Oracle Cloud Success Navigator
+## Gerenciando Programas e Projetos de Forma Eficaz com o Oracle Cloud Success Navigator
 
 ### Introdução
 O gerenciamento eficaz de programas e projetos é fundamental para o sucesso da implementação do Oracle Fusion Applications. O Oracle Cloud Success Navigator oferece um conjunto de ferramentas e recursos para auxiliar os gerentes de projeto em todas as fases do ciclo de vida do projeto.
@@ -227,7 +227,7 @@ O gerenciamento de equipes é fundamental para o sucesso do projeto. É importan
 ### Conclusão
 O gerenciamento eficaz de programas e projetos é fundamental para o sucesso da implementação do Oracle Fusion Applications. Ao utilizar o Oracle Cloud Success Navigator e seguir as melhores práticas, os gerentes de projeto podem garantir que seus projetos sejam concluídos dentro do prazo, do orçamento e com a qualidade esperada.
 
-## Apostila 6: Aplicando Padrões de Qualidade da Nuvem para uma Implementação Bem-Sucedida
+## Aplicando Padrões de Qualidade da Nuvem para uma Implementação Bem-Sucedida
 
 ### Introdução
 A qualidade é um fator crítico para o sucesso de qualquer implementação de aplicativos na nuvem. Aplicar padrões de qualidade adequados garante que o sistema seja confiável, seguro e eficiente. Esta apostila aborda os principais aspectos da aplicação de padrões de qualidade na implementação do Oracle Fusion Applications.
@@ -272,7 +272,7 @@ A melhoria contínua é um processo importante para garantir que o sistema conti
 A aplicação de padrões de qualidade adequados é fundamental para o sucesso da implementação do Oracle Fusion Applications. Ao seguir as diretrizes e recomendações desta apostila, as organizações podem garantir que seus sistemas sejam confiáveis, seguros e eficientes.
 
 
-## Apostila 7: Promovendo a Inovação Contínua com Orientação e Recursos Disponíveis
+## Promovendo a Inovação Contínua com Orientação e Recursos Disponíveis
 
 ### Introdução
 A inovação contínua é essencial para o sucesso a longo prazo na era da nuvem. O Oracle Cloud Success Navigator oferece uma variedade de recursos e orientações para ajudar as organizações a promover a inovação em suas implementações do Oracle Fusion Applications.
@@ -313,7 +313,7 @@ Uma cultura de inovação é fundamental para o sucesso a longo prazo. As organi
 ### Conclusão
 A inovação contínua é essencial para o sucesso na era da nuvem. O Oracle Cloud Success Navigator oferece recursos e orientações valiosas para ajudar as organizações a promover a inovação em suas implementações do Oracle Fusion Applications. Ao adotar estratégias eficazes e promover uma cultura de inovação, as organizações podem se manter competitivas e alcançar seus objetivos de negócios.
 
-## Apostila 8: Planejando, Otimizando e Inovando para Obter Sucesso Contínuo
+## Planejando, Otimizando e Inovando para Obter Sucesso Contínuo
 
 ### Introdução
 O sucesso contínuo com o Oracle Fusion Applications na nuvem exige mais do que apenas a implementação inicial. Requer planejamento estratégico, otimização constante e uma cultura de inovação. Esta apostila aborda como usar o Oracle Cloud Success Navigator para planejar, otimizar e inovar para alcançar o sucesso a longo prazo.
